@@ -185,7 +185,7 @@ def start_attack(target_ip, domain):
 
 # Author
 
-## Rashmi Singh
+Rashmi Singh
 
 **B.Tech Computer Engineering**  
 Babasaheb Bhimrao Ambedkar University, Lucknow
