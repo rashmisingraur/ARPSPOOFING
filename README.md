@@ -183,7 +183,7 @@ def start_attack(target_ip, domain):
 ```
 
 
-# 👨‍💻 Author
+# Author
 
 ## Rashmi Singh
 
