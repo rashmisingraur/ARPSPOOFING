@@ -182,37 +182,12 @@ def start_attack(target_ip, domain):
     execute_bettercap(commands)
 ```
 
-Rashmi Singh 
 
+# 👨‍💻 Author
 
+## Rashmi Singh
 
-## Contributing
-
-We welcome contributions to improve ShadowSnare for educational purposes:
-
-### How to Contribute
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/improvement`)
-3. Make your changes with proper documentation
-4. Test thoroughly in isolated environments
-5. Submit a pull request with detailed description
-
-### Contribution Guidelines
-- Follow ethical hacking principles
-- Maintain educational focus
-- Include proper error handling
-- Add comprehensive comments
-- Update documentation accordingly
-- Test all network attack modules
-
-### Areas for Contribution
-- Additional attack vectors and modules
-- GUI improvements and user experience
-- Performance optimizations
-- Cross-platform compatibility
-- Documentation and tutorials
-- Security enhancements
-
-
+**B.Tech Computer Engineering**  
+Babasaheb Bhimrao Ambedkar University, Lucknow
 ### Legal Compliance
 Users must ensure compliance with local laws and regulations. The developers are not responsible for misuse of this educational tool.
